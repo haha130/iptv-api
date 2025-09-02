@@ -1,4 +1,38 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 tvg-name="cctv1" tvg-logo="https://epg.112114.xyz/logo/cctv1.png" epg-url="https://epg.112114.xyz/pp.xml",cctv1
+http://live.xmqkx.com/live/1001_1.m3u8
+#EXTINF:-1 tvg-name="cctv2" tvg-logo="https://epg.112114.xyz/logo/cctv2.png" epg-url="https://epg.112114.xyz/pp.xml",cctv2
+http://live.xmqkx.com/live/1002_1.m3u8
+#EXTINF:-1 tvg-name="cctv3" tvg-logo="https://epg.112114.xyz/logo/cctv3.png" epg-url="https://epg.112114.xyz/pp.xml",cctv3
+http://live.xmqkx.com/live/1003_1.m3u8
+#EXTINF:-1 tvg-name="cctv4" tvg-logo="https://epg.112114.xyz/logo/cctv4.png" epg-url="https://epg.112114.xyz/pp.xml",cctv4
+http://live.xmqkx.com/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://epg.112114.xyz/logo/cctv5.png" epg-url="https://epg.112114.xyz/pp.xml",cctv5
+http://live.xmqkx.com/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="cctv6" tvg-logo="https://epg.112114.xyz/logo/cctv6.png" epg-url="https://epg.112114.xyz/pp.xml",cctv6
+http://live.xmqkx.com/live/1006_1.m3u8
+#EXTINF:-1 tvg-name="cctv7" tvg-logo="https://epg.112114.xyz/logo/cctv7.png" epg-url="https://epg.112114.xyz/pp.xml",cctv7
+http://live.xmqkx.com/live/1007_1.m3u8
+#EXTINF:-1 tvg-name="cctv8" tvg-logo="https://epg.112114.xyz/logo/cctv8.png" epg-url="https://epg.112114.xyz/pp.xml",cctv8
+http://live.xmqkx.com/live/1008_1.m3u8
+#EXTINF:-1 tvg-name="cctv9" tvg-logo="https://epg.112114.xyz/logo/cctv9.png" epg-url="https://epg.112114.xyz/pp.xml",cctv9
+http://live.xmqkx.com/live/1009_1.m3u8
+#EXTINF:-1 tvg-name="cctv10" tvg-logo="https://epg.112114.xyz/logo/cctv10.png" epg-url="https://epg.112114.xyz/pp.xml",cctv10
+http://live.xmqkx.com/live/1010_1.m3u8
+#EXTINF:-1 tvg-name="cctv11" tvg-logo="https://epg.112114.xyz/logo/cctv11.png" epg-url="https://epg.112114.xyz/pp.xml",cctv11
+http://live.xmqkx.com/live/1011_1.m3u8
+#EXTINF:-1 tvg-name="cctv12" tvg-logo="https://epg.112114.xyz/logo/cctv12.png" epg-url="https://epg.112114.xyz/pp.xml",cctv12
+http://live.xmqkx.com/live/1012_1.m3u8
+#EXTINF:-1 tvg-name="cctv13" tvg-logo="https://epg.112114.xyz/logo/cctv13.png" epg-url="https://epg.112114.xyz/pp.xml",cctv13
+http://live.xmqkx.com/live/1013_1.m3u8
+#EXTINF:-1 tvg-name="cctv14" tvg-logo="https://epg.112114.xyz/logo/cctv14.png" epg-url="https://epg.112114.xyz/pp.xml",cctv14
+http://live.xmqkx.com/live/1014_1.m3u8
+#EXTINF:-1 tvg-name="cctv15" tvg-logo="https://epg.112114.xyz/logo/cctv15.png" epg-url="https://epg.112114.xyz/pp.xml",cctv15
+http://live.xmqkx.com/live/1015_1.m3u8
+#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://epg.112114.xyz/logo/cctv16.png" epg-url="https://epg.112114.xyz/pp.xml",cctv16
+http://live.xmqkx.com/live/1016_1.m3u8
+#EXTINF:-1 tvg-name="cctv17" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" epg-url="https://epg.112114.xyz/pp.xml",cctv17
+http://live.xmqkx.com/live/1017_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
 http://112.27.235.94:8000/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV2
