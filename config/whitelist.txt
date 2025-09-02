@@ -2,3 +2,22 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+
+CCTV1,http://live.xmqkx.com/live/1001_1.m3u8
+CCTV2,http://live.xmqkx.com/live/1002_1.m3u8
+CCTV3,http://live.xmqkx.com/live/1003_1.m3u8
+CCTV4,http://live.xmqkx.com/live/1004_1.m3u8
+CCTV5,http://live.xmqkx.com/live/1005_1.m3u8
+CCTV6,http://live.xmqkx.com/live/1006_1.m3u8
+CCTV7,http://live.xmqkx.com/live/1007_1.m3u8
+CCTV8,http://live.xmqkx.com/live/1008_1.m3u8
+CCTV9,http://live.xmqkx.com/live/1009_1.m3u8
+CCTV10,http://live.xmqkx.com/live/1010_1.m3u8
+CCTV11,http://live.xmqkx.com/live/1011_1.m3u8
+CCTV12,http://live.xmqkx.com/live/1012_1.m3u8
+CCTV13,http://live.xmqkx.com/live/1013_1.m3u8
+CCTV14,http://live.xmqkx.com/live/1014_1.m3u8
+CCTV15,http://live.xmqkx.com/live/1015_1.m3u8
+CCTV16,http://live.xmqkx.com/live/1016_1.m3u8
+CCTV17,http://live.xmqkx.com/live/1017_1.m3u8
+CCTV5+,http://live.xmqkx.com/live/1018_1.m3u8
