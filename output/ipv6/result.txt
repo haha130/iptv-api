@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-05 04:42:14,http://live.xmqkx.com/live/1001_1.m3u8
+2025-09-05 16:46:27,http://live.xmqkx.com/live/1001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://live.xmqkx.com/live/1001_1.m3u8
@@ -8,11 +8,11 @@ CCTV-2,https://cc06.tv12.xyz/2.m3u8$订阅源
 CCTV-3,http://live.xmqkx.com/live/1003_1.m3u8
 CCTV-3,https://cc06.tv12.xyz/3.m3u8$订阅源
 CCTV-4,http://live.xmqkx.com/live/1004_1.m3u8
+CCTV-4,https://mursor.ottiptv.cc/migu/631780421.m3u8?migutoken=0ab731fc97a40439557fecc600f905d67bfc49ad7fc7faf3acce2c8bd27241f612dc8aa8b0d55d864094e2ac93907d2f187fcc1faeaf8f7019d10eea113efbe166ec7a687118d53a3e3ddc7fb5$订阅源
 CCTV-4,https://cc06.tv12.xyz/4.m3u8$订阅源
 CCTV-5,http://live.xmqkx.com/live/1005_1.m3u8
 CCTV-5,https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=77f0c548618e5e42bb7bf80c4f009258545d4049642fe079206e982e5f28aa06f2bb8d8ab63f5c519f74f772eef76d514bd132556cf4ae68caabbcc3d4d2efe119537c7e94d9ca40320f25a224$订阅源
 CCTV-5,https://cc06.tv12.xyz/5.m3u8$订阅源
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=beijing$订阅源
 CCTV-5+,http://live.xmqkx.com/live/1018_1.m3u8
 CCTV-5+,https://cc06.tv12.xyz/6.m3u8$订阅源
 CCTV-6,http://live.xmqkx.com/live/1006_1.m3u8
@@ -31,13 +31,13 @@ CCTV-12,http://live.xmqkx.com/live/1012_1.m3u8
 CCTV-12,https://mursor.ottiptv.cc/migu/673168185.m3u8?migutoken=a803c5816215db51a2786442dbf12584fbb956e9004f55850e60e7e9f05f9c64432db9341c81e949e5775d901fd08389ca07926381b98c737513a72fe74381dc4c097c90550a157d6834b5be83$订阅源
 CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
 CCTV-13,http://live.xmqkx.com/live/1013_1.m3u8
-CCTV-13,https://cc06.tv12.xyz/14.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
+CCTV-13,https://cc06.tv12.xyz/14.m3u8$订阅源
 CCTV-14,http://live.xmqkx.com/live/1014_1.m3u8
-CCTV-14,https://cc06.tv12.xyz/15.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
+CCTV-14,https://cc06.tv12.xyz/15.m3u8$订阅源
 CCTV-15,http://live.xmqkx.com/live/1015_1.m3u8
 CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-16,http://live.xmqkx.com/live/1016_1.m3u8
@@ -46,12 +46,16 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 CCTV-17,http://live.xmqkx.com/live/1017_1.m3u8
 CCTV-17,https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=e36f3bbfb79f8f97823a18af05f0611e6a96af6cb7133f069de793f17d7bbe83d1cd317367044a0345b4be635d6b63fdc1aaa030cfd1dc148ae377f387ae327f50e484d7b20a6c642faf378904$订阅源
 CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
-CETV-4,https://mursor.ottiptv.cc/migu/923287339.m3u8$订阅源
+CETV-1,https://mursor.ottiptv.cc/migu/923287154.m3u8?migutoken=1754a9ca5cdc54471b240233f109832916a93650a93a1d471bf509c9ad5e5467ff3bc65752dd3dc3caf13653dabc36c91d96c2feb9c1f5b856184b8a4d73998fb9473c4b0d35c0d6d772107e10$订阅源
+CETV-2,https://mursor.ottiptv.cc/migu/923287211.m3u8?migutoken=e1186deb9ecf1c758ba74b0b1b461689cd59a86ca1d4aade14dab0bb8a016ed2fc433f629633ce4aff4685062e9235b6ad64ad3ff2e7cf5da19d6b28180bdb461ec30bfa23448e5667ef3a1008$订阅源
+CETV-4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=3053736c1e6476d1bea2231a7fe546dcfb7f28180d2f17b6315eaca3b67a4098356da86d228290f9d7c3ba1305ccb8d20639c11cbec102f5ab9422a96ffb92578d5bd50b434beb475a471023a6$订阅源
 
 💰央视付费频道,#genre#
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8$订阅源
 风云音乐,https://epg.pw/stream/2b8d7f241cc69b8f2c05743118d1c67efc21054e38b4578509d60df27ba88a31.m3u8$订阅源
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
+风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8$订阅源
+怀旧剧场,https://mursor.ottiptv.cc/mcp/hjjc.m3u8$订阅源
 怀旧剧场,https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8$订阅源
 女性时尚,https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8$订阅源
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
@@ -116,7 +120,6 @@ CHC动作电影,https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=8ecd6b01
 CCTV-5,http://live.xmqkx.com/live/1005_1.m3u8
 CCTV-5,https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=77f0c548618e5e42bb7bf80c4f009258545d4049642fe079206e982e5f28aa06f2bb8d8ab63f5c519f74f772eef76d514bd132556cf4ae68caabbcc3d4d2efe119537c7e94d9ca40320f25a224$订阅源
 CCTV-5,https://cc06.tv12.xyz/5.m3u8$订阅源
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=beijing$订阅源
 CCTV-5+,http://live.xmqkx.com/live/1018_1.m3u8
 CCTV-5+,https://cc06.tv12.xyz/6.m3u8$订阅源
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
@@ -131,8 +134,6 @@ CCTV-5+,https://cc06.tv12.xyz/6.m3u8$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
-漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 漫画解说,https://mursor.ottiptv.cc/yy/1382735568$订阅源
 
 🎵音乐频道,#genre#
