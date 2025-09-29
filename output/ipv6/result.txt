@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-09-29 16:42:23,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
+2025-09-30 04:31:12,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=beijing$订阅源
 
 📺央视频道,#genre#
+CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=beijing$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
@@ -15,26 +16,60 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 怀旧剧场,https://epg.pw/stream/64118614da901fa555c5610863ebf1a8a8b974569476259a8a5d3d014e16e6f3.m3u8$订阅源
 女性时尚,https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8$订阅源
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
+风云足球,https://cc06.tv12.xyz/41.m3u8$订阅源
 世界地理,https://epg.pw/stream/a21d3b2c0fb8bedc944540de165684096fba12a38f2320b2432ff9db7a01dd03.m3u8$订阅源
+世界地理,https://cc06.tv12.xyz/104.m3u8$订阅源
 兵器科技,https://epg.pw/stream/eefe6cb512978f2ae6655942726d3db62226f7a84f4b2a25e4bc3babaaaa596a.m3u8$订阅源
 
 📡卫视频道,#genre#
+广东卫视,https://cc06.tv12.xyz/43.m3u8$订阅源
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
-黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
+浙江卫视,https://cc06.tv12.xyz/117.m3u8$订阅源
+湖南卫视,https://cc06.tv12.xyz/57.m3u8$订阅源
+北京卫视,https://cc06.tv12.xyz/27.m3u8$订阅源
+湖北卫视,https://cc06.tv12.xyz/50.m3u8$订阅源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
+黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
+黑龙江卫视,https://cc06.tv12.xyz/53.m3u8$订阅源
+安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
+重庆卫视,https://cc06.tv12.xyz/34.m3u8$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
+东方卫视,https://cc06.tv12.xyz/37.m3u8$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
+东南卫视,https://cc06.tv12.xyz/38.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
+甘肃卫视,https://cc06.tv12.xyz/44.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
+广西卫视,https://cc06.tv12.xyz/46.m3u8$订阅源
+贵州卫视,https://cc06.tv12.xyz/48.m3u8$订阅源
+海南卫视,https://cc06.tv12.xyz/93.m3u8$订阅源
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
+河北卫视,https://cc06.tv12.xyz/51.m3u8$订阅源
+河南卫视,https://cc06.tv12.xyz/49.m3u8$订阅源
+吉林卫视,https://cc06.tv12.xyz/60.m3u8$订阅源
+江苏卫视,https://cc06.tv12.xyz/61.m3u8$订阅源
+江西卫视,https://cc06.tv12.xyz/62.m3u8$订阅源
+辽宁卫视,https://cc06.tv12.xyz/70.m3u8$订阅源
+内蒙古卫视,https://cc06.tv12.xyz/94.m3u8$订阅源
+宁夏卫视,https://cc06.tv12.xyz/96.m3u8$订阅源
+青海卫视,https://cc06.tv12.xyz/97.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
+山东卫视,https://cc06.tv12.xyz/101.m3u8$订阅源
 山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
+山西卫视,https://cc06.tv12.xyz/107.m3u8$订阅源
+陕西卫视,https://cc06.tv12.xyz/106.m3u8$订阅源
+四川卫视,https://cc06.tv12.xyz/99.m3u8$订阅源
+深圳卫视,https://cc06.tv12.xyz/108.m3u8$订阅源
 三沙卫视,https://epg.pw/stream/fd1abacd02d10bf9e60b98fdc292704eefa30cff9e4eb0816eec3156e687c991.m3u8$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 西藏卫视,https://epg.pw/stream/e35b0848da1b0a6be0928ef360e64275e9255a2adbe9d7dd151360bf005d5e55.m3u8$订阅源
+西藏卫视,https://cc06.tv12.xyz/112.m3u8$订阅源
 新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
+新疆卫视,https://cc06.tv12.xyz/109.m3u8$订阅源
+云南卫视,https://cc06.tv12.xyz/114.m3u8$订阅源
 
 ☘️吉林频道,#genre#
+延边卫视,https://cc06.tv12.xyz/113.m3u8$订阅源
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8$订阅源
 
 🎬电影频道,#genre#
@@ -46,25 +81,30 @@ CHC家庭影院,https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e05372
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=beijing$订阅源
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
 五星体育,https://other.ottiptv.cc/wxty.m3u8$订阅源
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8$订阅源
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
+风云足球,https://cc06.tv12.xyz/41.m3u8$订阅源
+天元围棋,https://cc06.tv12.xyz/47.m3u8$订阅源
+快乐垂钓,https://cc06.tv12.xyz/56.m3u8$订阅源
 
 🪁动画频道,#genre#
 优漫卡通,https://epg.pw/stream/9a50e666912cb82bd584eb50bb030b7f654275ed05a586ef3c63ac39789df94b.m3u8$订阅源
 金鹰卡通,https://epg.pw/stream/10c162a19187277452e11fbe6cc81e691467a45e9aaa62427d2ba9ed3d5254b9.m3u8$订阅源
+金鹰卡通,https://cc06.tv12.xyz/55.m3u8$订阅源
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
-漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568$订阅源
 
 🎵音乐频道,#genre#
 风云音乐,https://epg.pw/stream/2b8d7f241cc69b8f2c05743118d1c67efc21054e38b4578509d60df27ba88a31.m3u8$订阅源
 
 🏛经典剧场,#genre#
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
+西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242$订阅源
