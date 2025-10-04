@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-04 16:37:32,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8$订阅源
+2025-10-05 04:28:54,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8$订阅源
@@ -21,7 +21,6 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 
 📡卫视频道,#genre#
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
-北京卫视,https://cc06.tv12.xyz/27.m3u8$订阅源
 湖北卫视,https://cc06.tv12.xyz/50.m3u8$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 黑龙江卫视,https://cc06.tv12.xyz/53.m3u8$订阅源
@@ -80,8 +79,7 @@ CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
 五星体育,https://other.ottiptv.cc/wxty.m3u8$订阅源
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8$订阅源
-睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive$订阅源
-睛彩广场舞,http://missyao.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive$订阅源
+睛彩广场舞,http://missyao.com:35455/itv/3000000020000011523.m3u8$订阅源
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
 天元围棋,https://cc06.tv12.xyz/47.m3u8$订阅源
 快乐垂钓,https://cc06.tv12.xyz/56.m3u8$订阅源
