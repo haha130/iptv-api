@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/haha130/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-28 04:34:17
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-28 16:40:01
 https://jzb.wwkejishe.top/?id=578$订阅源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://jzb.wwkejishe.top/?id=578$订阅源
@@ -9,8 +9,6 @@ https://jzb.wwkejishe.top/?id=579$订阅源
 https://jzb.wwkejishe.top/?id=580$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://jzb.wwkejishe.top/?id=582$订阅源
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 https://jzb.wwkejishe.top/?id=583$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
@@ -116,11 +114,11 @@ https://epg.pw/stream/fd1abacd02d10bf9e60b98fdc292704eefa30cff9e4eb0816eec3156e6
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
 https://jzb.wwkejishe.top/?id=611$订阅源
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+https://epg.pw/stream/e35b0848da1b0a6be0928ef360e64275e9255a2adbe9d7dd151360bf005d5e55.m3u8$订阅源
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://cc02.tv12.xyz/9.m3u8$订阅源
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://php.jdshipin.com/xztv.php?id=ws$订阅源
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
-https://epg.pw/stream/e35b0848da1b0a6be0928ef360e64275e9255a2adbe9d7dd151360bf005d5e55.m3u8$订阅源
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://cc02.tv12.xyz/10.m3u8$订阅源
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
@@ -138,23 +136,25 @@ http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010077$订阅�
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003$订阅源
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="🎬电影频道",黑莓电影
-http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073$订阅源
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="🎬电影频道",黑莓电影
 https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="🎬电影频道",黑莓电影
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073$订阅源
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬电影频道",天映经典
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬电影频道",天映经典
 https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬电影频道",天映经典
+http://php.jdshipin.com:8880/smt.php?id=Celestial2$订阅源
+#EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="🎬电影频道",无线星河
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
 https://jzb.wwkejishe.top/?id=582$订阅源
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
-https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
 https://jzb.wwkejishe.top/?id=583$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🏀体育频道",广东体育
-http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🏀体育频道",广东体育
 https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🏀体育频道",广东体育
+http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/劲爆体育.png" group-title="🏀体育频道",劲爆体育
@@ -174,9 +174,9 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113$订阅源
 #EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱动漫.png" group-title="🪁动画频道",爱动漫
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630$订阅源
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="🪁动画频道",优漫卡通
-http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010118$订阅源
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="🪁动画频道",优漫卡通
 https://epg.pw/stream/9a50e666912cb82bd584eb50bb030b7f654275ed05a586ef3c63ac39789df94b.m3u8$订阅源
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="🪁动画频道",优漫卡通
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010118$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 https://epg.pw/stream/10c162a19187277452e11fbe6cc81e691467a45e9aaa62427d2ba9ed3d5254b9.m3u8$订阅源
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🪁动画频道",黑莓动画
