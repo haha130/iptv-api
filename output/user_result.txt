@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-20 04:37:56,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
+2025-12-20 16:41:14,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
@@ -15,6 +15,7 @@ CCTV-4,http://ymz.stkeyu.top:8303/rtp/239.77.0.174:5146$订阅源
 CCTV-4,http://yp.qqqtv.top/bc/bc.php?id=CCTV-4+%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85+%E6%AC%A7%E6%B4%B2&auth=66615415$订阅源
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$订阅源
 CCTV-5,http://ymz.stkeyu.top:8303/rtp/239.253.43.121:5146$订阅源
+CCTV-5,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858$订阅源
 CCTV-5+,http://ymz.stkeyu.top:8303/rtp/239.77.0.87:5146$订阅源
 CCTV-6,http://ymz.stkeyu.top:8303/rtp/239.77.0.171:5146$订阅源
 CCTV-6,http://yp.qqqtv.top/bc/bc.php?id=CCTV-6+%E7%94%B5%E5%BD%B1&auth=66615415$订阅源
@@ -57,9 +58,9 @@ CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000$订阅源
 CETV-2,http://183.220.107.138:4022/rtp/239.11.0.246:5140$订阅源
 CETV-2,http://ymz.stkeyu.top:8303/rtp/239.77.0.28:5146$订阅源
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140$订阅源
-CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140$订阅源
 CETV-4,http://ymz.stkeyu.top:8303/rtp/239.253.43.114:5146$订阅源
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328$订阅源
+CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140$订阅源
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000$订阅源
 
 💰央视付费频道,#genre#
@@ -73,27 +74,26 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000$订阅源
 第一剧场,http://ymz.stkeyu.top:8303/rtp/239.253.43.15:5146$订阅源
 第一剧场,http://171.83.103.119:9999/rtp/239.69.1.74:10084$订阅源
 第一剧场,http://171.125.90.120:6001/rtp/226.0.2.221:9680$订阅源
-第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8$订阅源
 风云剧场,http://183.220.107.138:4022/rtp/239.10.0.203:5140$订阅源
 风云剧场,http://ymz.stkeyu.top:8303/rtp/239.253.43.16:5146$订阅源
 风云剧场,http://171.125.90.120:6001/rtp/226.0.2.227:9728$订阅源
 风云剧场,http://hmfs.f3322.net:3388/hls/20/index.m3u8$订阅源
 怀旧剧场,http://ymz.stkeyu.top:8303/rtp/239.253.43.25:5146$订阅源
 怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.86:10156$订阅源
-怀旧剧场,http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858$订阅源
 怀旧剧场,http://171.125.90.120:6001/rtp/226.0.2.224:9704$订阅源
+怀旧剧场,http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858$订阅源
 女性时尚,http://ymz.stkeyu.top:8303/rtp/239.253.43.23:5146$订阅源
 女性时尚,http://171.125.90.120:6001/rtp/226.0.2.226:9720$订阅源
 高尔夫网球,http://183.220.107.138:4022/rtp/239.10.0.224:5140$订阅源
 高尔夫网球,http://171.83.103.119:9999/rtp/239.69.1.83:10138$订阅源
-高尔夫网球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83&auth=666858$订阅源
 高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648$订阅源
+高尔夫网球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83&auth=666858$订阅源
 风云足球,http://ymz.stkeyu.top:8303/rtp/239.253.43.14:5146$订阅源
-风云足球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=666858$订阅源
 风云足球,http://hmfs.f3322.net:3388/hls/9/index.m3u8$订阅源
+风云足球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=666858$订阅源
 电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162$订阅源
-电视指南,http://yp.qqqtv.top/1/api.php?id=CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97&auth=666858$订阅源
 电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656$订阅源
+电视指南,http://yp.qqqtv.top/1/api.php?id=CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97&auth=666858$订阅源
 世界地理,http://ymz.stkeyu.top:8303/rtp/239.253.43.24:5146$订阅源
 兵器科技,http://ymz.stkeyu.top:8303/rtp/239.253.43.18:5146$订阅源
 兵器科技,http://171.83.103.119:9999/rtp/239.69.1.79:10114$订阅源
@@ -253,6 +253,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$订阅源
 🏀体育频道,#genre#
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$订阅源
 CCTV-5,http://ymz.stkeyu.top:8303/rtp/239.253.43.121:5146$订阅源
+CCTV-5,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858$订阅源
 CCTV-5+,http://ymz.stkeyu.top:8303/rtp/239.77.0.87:5146$订阅源
 广东体育,http://ymz.stkeyu.top:8303/rtp/239.77.0.112:5146$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
@@ -263,8 +264,8 @@ CCTV-5+,http://ymz.stkeyu.top:8303/rtp/239.77.0.87:5146$订阅源
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8$订阅源
 天津体育,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A9%E6%B4%A5%E4%BD%93%E8%82%B2&auth=666858$订阅源
 风云足球,http://ymz.stkeyu.top:8303/rtp/239.253.43.14:5146$订阅源
-风云足球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=666858$订阅源
 风云足球,http://hmfs.f3322.net:3388/hls/9/index.m3u8$订阅源
+风云足球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=666858$订阅源
 天元围棋,http://ymz.stkeyu.top:8303/rtp/239.253.43.98:5146$订阅源
 快乐垂钓,http://ymz.stkeyu.top:8303/rtp/239.77.0.145:5146$订阅源
 JJ斗地主,https://lunbo.freetv.top/douyu/488743$订阅源
@@ -296,8 +297,8 @@ CCTV-15,http://yp.qqqtv.top/bc/bc.php?id=CCTV-15+%E9%9F%B3%E4%B9%90&auth=6661541
 
 🏛经典剧场,#genre#
 笑傲江湖,http://www.douzhicloud.site:35455/huya/23865142$订阅源
-天龙八部,https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8$订阅源
 天龙八部,http://www.douzhicloud.site:35455/yy/1351814644$订阅源
+天龙八部,https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8$订阅源
 鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277$订阅源
 仙剑奇侠传,http://www.douzhicloud.site:35455/yy/1382749903$订阅源
 西游记,http://1.94.31.214:35455/huya/29981376$订阅源
@@ -307,4 +308,5 @@ CCTV-15,http://yp.qqqtv.top/bc/bc.php?id=CCTV-15+%E9%9F%B3%E4%B9%90&auth=6661541
 新白娘子传奇,http://www.douzhicloud.site:35455/yy/1354490667$订阅源
 济公游记,http://1.94.31.214:35455/yy/21482$订阅源
 济公游记,https://lunbo.freetv.top/yy/1355265814$订阅源
+闯关东,http://129.150.54.232:10001/yy/1354689861$订阅源
 射雕英雄传,http://www.douzhicloud.site:35455/huya/23824164$订阅源
