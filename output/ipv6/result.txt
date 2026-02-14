@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2026-02-14 04:48:11,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG$订阅源
+2026-02-14 16:42:33,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG$订阅源
-CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695306571565499052.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771549191&major_anchor_level=common&sign=63aedeb26c2ad0e08c696b215d55f9fa&t_id=037-2026021308595043BF4B99B05679FF056D-K8NBow$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-695298859153752748.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771463708&major_anchor_level=common&sign=708998c737cbaa4a6c56a71ad9384156&t_id=037-202602120915076A7E8CC5831E48650F02-GFlq4b$订阅源
 
@@ -63,8 +63,12 @@ CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$订阅源
 金鹰卡通,https://epg.pw/stream/10c162a19187277452e11fbe6cc81e691467a45e9aaa62427d2ba9ed3d5254b9.m3u8$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
 七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
+中华小当家,https://live.metshop.top/huya/11342413$订阅源
 猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
+猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
@@ -73,6 +77,12 @@ CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$订阅源
 
 🏛经典剧场,#genre#
 笑傲江湖,https://live.ottiptv.cc/huya/26355790$订阅源
+笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
 天龙八部,https://live.ottiptv.cc/huya/20985816$订阅源
+天龙八部,https://live.metshop.top/huya/23903123$订阅源
 西游记,https://live.ottiptv.cc/huya/26355861$订阅源
+西游记,https://live.metshop.top/huya/26355861$订阅源
 三国演义,https://live.ottiptv.cc/huya/11602081$订阅源
+三国演义,https://live.metshop.top/huya/11602081$订阅源
+封神榜,https://live.metshop.top/huya/29465849$订阅源
+射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
