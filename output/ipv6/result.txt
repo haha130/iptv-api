@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2026-05-12 18:42:09,https://xykt-fix.github.io/Y77.m3u8$订阅源
+2026-05-13 05:45:29,https://xykt-fix.github.io/Y77.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8$订阅源
 CCTV-13,http://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
-CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407586649724682924.m3u8?expire=1779152803&sign=99aa28ff2267f0c59d0c71b0ef5c994a&exp_hrchy=w1&neq=1&major_anchor_level=common&arch_hrchy=w1&t_id=037-202605120906426D623928AE4920F7472A-7fbyqQ$订阅源
 
 💰央视付费频道,#genre#
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
@@ -29,9 +28,7 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407586649724682924.m3u8?e
 🎬电影频道,#genre#
 CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2$订阅源
 CHC家庭影院,https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.m3u8$订阅源
-CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8$订阅源
 CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1$订阅源
-CHC动作电影,http://api.kkhk.itv888.vip:8080/streams/tbqrnwqrilg/index.m3u8$订阅源
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf$订阅源
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003$订阅源
