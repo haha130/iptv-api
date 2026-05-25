@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-25 05:06:40,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1$订阅源
+2026-05-25 20:04:00,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1$订阅源
 CCTV-2,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2$订阅源
 CCTV-3,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3$订阅源
+CCTV-4,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4$订阅源
 CCTV-5,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5$订阅源
 CCTV-6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6$订阅源
 CCTV-7,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7$订阅源
@@ -12,7 +13,6 @@ CCTV-8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8$订阅源
 CCTV-9,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9$订阅源
 CCTV-10,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10$订阅源
 CCTV-11,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv11$订阅源
-CCTV-11,https://xykt-fix.github.io/play/a02b/index.m3u8$订阅源
 CCTV-12,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12$订阅源
 CCTV-14,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
@@ -32,6 +32,7 @@ CCTV-17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17$订阅源
 📡卫视频道,#genre#
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
+广西卫视,http://a.xiongnas.top:8888/rtp/239.3.1.39:8300$订阅源
 三沙卫视,https://epg.pw/stream/fd1abacd02d10bf9e60b98fdc292704eefa30cff9e4eb0816eec3156e687c991.m3u8$订阅源
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86$订阅源
 西藏卫视,https://epg.pw/stream/e35b0848da1b0a6be0928ef360e64275e9255a2adbe9d7dd151360bf005d5e55.m3u8$订阅源
@@ -46,11 +47,9 @@ CHC家庭影院,https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e05372
 CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1$订阅源
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf$订阅源
-靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858$订阅源
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003$订阅源
-靖天戏剧,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv058&token=https://t.me/GPT_858$订阅源
-天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 天映经典,https://php.jdshipin.com:2096/smt.php?id=Celestial2$订阅源
+天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
 无线星河,https://cdn6.163189.xyz/163189/tvbxh$订阅源
 
