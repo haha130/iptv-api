@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-12 06:13:14,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1$订阅源
+2026-06-12 19:54:12,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1$订阅源
@@ -23,6 +23,7 @@ CCTV-11,https://cdn16.163189.xyz/163189/cctv11$订阅源
 CCTV-12,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12$订阅源
 CCTV-12,https://cdn16.163189.xyz/163189/cctv12$订阅源
 CCTV-13,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13$订阅源
+CCTV-13,https://cdn16.163189.xyz/163189/cctv13$订阅源
 CCTV-14,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14$订阅源
 CCTV-14,https://cdn16.163189.xyz/163189/cctv14$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
@@ -41,13 +42,19 @@ CCTV-17,https://cdn16.163189.xyz/163189/cctv17$订阅源
 兵器科技,https://epg.pw/stream/eefe6cb512978f2ae6655942726d3db62226f7a84f4b2a25e4bc3babaaaa596a.m3u8$订阅源
 
 📡卫视频道,#genre#
+广东卫视,https://live.chinacert.cftest5.cn/zgst/live/guangdong$订阅源
 北京卫视,https://live.chinacert.cftest5.cn/zgst/live/beijing$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 安徽卫视,https://live.chinacert.cftest5.cn/zgst/live/anhui$订阅源
 重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing$订阅源
-东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
+东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang$订阅源
+东南卫视,https://live.chinacert.cftest5.cn/zgst/live/dongnan$订阅源
+广西卫视,https://live.chinacert.cftest5.cn/zgst/live/guangxi$订阅源
+吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin$订阅源
+内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu$订阅源
 山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong$订阅源
+深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen$订阅源
 三沙卫视,https://epg.pw/stream/fd1abacd02d10bf9e60b98fdc292704eefa30cff9e4eb0816eec3156e687c991.m3u8$订阅源
 天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin$订阅源
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86$订阅源
