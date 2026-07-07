@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-07 05:47:16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2$订阅源
+2026-07-07 19:07:03,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2$订阅源
@@ -8,6 +8,7 @@ CCTV-4,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4$订阅源
 CCTV-5,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5$订阅源
 CCTV-5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p$订阅源
 CCTV-6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6$订阅源
+CCTV-6,https://85e7-724c-30ec-0b74.kylintv.tv/live/cctv6hd_iphone.m3u8$订阅源
 CCTV-7,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7$订阅源
 CCTV-8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8$订阅源
 CCTV-9,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9$订阅源
@@ -25,8 +26,8 @@ CCTV-17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17$订阅源
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
+东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang$订阅源
 东南卫视,https://live.chinacert.cftest5.cn/zgst/live/dongnan$订阅源
 甘肃卫视,https://live.chinacert.cftest5.cn/zgst/live/gansu$订阅源
 广西卫视,https://live.chinacert.cftest5.cn/zgst/live/guangxi$订阅源
@@ -37,11 +38,11 @@ CCTV-17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17$订阅源
 宁夏卫视,https://live.chinacert.cftest5.cn/zgst/live/ningxia$订阅源
 山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong$订阅源
 深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen$订阅源
-三沙卫视,https://live.chinacert.cftest5.cn/zgst/live/sansha$订阅源
 三沙卫视,https://epg.pw/stream/fd1abacd02d10bf9e60b98fdc292704eefa30cff9e4eb0816eec3156e687c991.m3u8$订阅源
+三沙卫视,https://live.chinacert.cftest5.cn/zgst/live/sansha$订阅源
 天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin$订阅源
-西藏卫视,https://live.chinacert.cftest5.cn/zgst/live/xizang$订阅源
 西藏卫视,https://epg.pw/stream/e35b0848da1b0a6be0928ef360e64275e9255a2adbe9d7dd151360bf005d5e55.m3u8$订阅源
+西藏卫视,https://live.chinacert.cftest5.cn/zgst/live/xizang$订阅源
 新疆卫视,https://live.chinacert.cftest5.cn/zgst/live/xinjiang$订阅源
 云南卫视,https://live.chinacert.cftest5.cn/zgst/live/yunnan$订阅源
 
@@ -71,8 +72,19 @@ CCTV-5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p$订阅源
 优漫卡通,https://epg.pw/stream/9a50e666912cb82bd584eb50bb030b7f654275ed05a586ef3c63ac39789df94b.m3u8$订阅源
 金鹰卡通,https://epg.pw/stream/10c162a19187277452e11fbe6cc81e691467a45e9aaa62427d2ba9ed3d5254b9.m3u8$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
+中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413$订阅源
+猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879$订阅源
+经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
+漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
 🎵音乐频道,#genre#
 CCTV-15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15$订阅源
 
 🏛经典剧场,#genre#
+笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790$订阅源
+天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=20985816$订阅源
+西游记,http://cdn.jdshipin.com:8880/huya.php?id=26355861$订阅源
+三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081$订阅源
+封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849$订阅源
+射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164$订阅源
