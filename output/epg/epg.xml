@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260707213515 +0800">
+<tv date="20260708102936 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -14616,11 +14616,8 @@
 	<programme channel="优漫卡通" start="20260708235900 +0800" stop="20260709000000 +0800">
 		<title lang="zh">结束</title>
 	</programme>
-	<programme channel="优漫卡通" start="20260709000000 +0800" stop="20260709004000 +0800">
+	<programme channel="优漫卡通" start="20260709000000 +0800" stop="20260709010000 +0800">
 		<title lang="zh">新西游历险记</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260709004000 +0800" stop="20260709010000 +0800">
-		<title lang="zh">宠物旅店</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260709010000 +0800" stop="20260709050000 +0800">
 		<title lang="zh">卡卡虎大冒险</title>
@@ -14628,8 +14625,11 @@
 	<programme channel="优漫卡通" start="20260709050000 +0800" stop="20260709060000 +0800">
 		<title lang="zh">天眼归来</title>
 	</programme>
-	<programme channel="优漫卡通" start="20260709060000 +0800" stop="20260709070000 +0800">
+	<programme channel="优漫卡通" start="20260709060000 +0800" stop="20260709064000 +0800">
 		<title lang="zh">新西游历险记</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709064000 +0800" stop="20260709070000 +0800">
+		<title lang="zh">宠物旅店</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260709070000 +0800" stop="20260709080000 +0800">
 		<title lang="zh">新大头儿子和小头爸爸欢乐亲子营</title>
@@ -14643,8 +14643,11 @@
 	<programme channel="优漫卡通" start="20260709090000 +0800" stop="20260709100000 +0800">
 		<title lang="zh">天眼归来</title>
 	</programme>
-	<programme channel="优漫卡通" start="20260709100000 +0800" stop="20260709110000 +0800">
+	<programme channel="优漫卡通" start="20260709100000 +0800" stop="20260709104000 +0800">
 		<title lang="zh">新西游历险记</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709104000 +0800" stop="20260709110000 +0800">
+		<title lang="zh">宠物旅店</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260709110000 +0800" stop="20260709120000 +0800">
 		<title lang="zh">新大头儿子和小头爸爸欢乐亲子营</title>
@@ -14657,6 +14660,60 @@
 	</programme>
 	<programme channel="优漫卡通" start="20260709125500 +0800" stop="20260709135500 +0800">
 		<title lang="zh">天眼归来</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709135500 +0800" stop="20260709140000 +0800">
+		<title lang="zh">新大头儿子和小头爸爸英雄梦</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709140000 +0800" stop="20260709144000 +0800">
+		<title lang="zh">新西游历险记</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709144000 +0800" stop="20260709150000 +0800">
+		<title lang="zh">宠物旅店</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709150000 +0800" stop="20260709160000 +0800">
+		<title lang="zh">新大头儿子和小头爸爸欢乐亲子营</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709160000 +0800" stop="20260709170000 +0800">
+		<title lang="zh">天眼归来</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709170000 +0800" stop="20260709180000 +0800">
+		<title lang="zh">海底小纵队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709180000 +0800" stop="20260709182500 +0800">
+		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709182500 +0800" stop="20260709185500 +0800">
+		<title lang="zh">小凉帽</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709185500 +0800" stop="20260709190000 +0800">
+		<title lang="zh">新大头儿子和小头爸爸英雄梦</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709190000 +0800" stop="20260709190500 +0800">
+		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709190500 +0800" stop="20260709193500 +0800">
+		<title lang="zh">海底小纵队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709193500 +0800" stop="20260709200500 +0800">
+		<title lang="zh">小凉帽</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709200500 +0800" stop="20260709210000 +0800">
+		<title lang="zh">宠物旅店</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709210000 +0800" stop="20260709220000 +0800">
+		<title lang="zh">新大头儿子和小头爸爸欢乐亲子营</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709220000 +0800" stop="20260709230000 +0800">
+		<title lang="zh">海底小纵队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709230000 +0800" stop="20260709233000 +0800">
+		<title lang="zh">奇妙萌可之闪耀流星</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709233000 +0800" stop="20260709235900 +0800">
+		<title lang="zh">愿望喵喵</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260709235900 +0800" stop="20260710000000 +0800">
+		<title lang="zh">结束</title>
 	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
@@ -16758,134 +16815,434 @@
 	<programme channel="动漫秀场" start="20260708174200 +0800" stop="20260709000000 +0800">
 		<title lang="zh">野生动物宝宝(20)</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709000000 +0800" stop="20260709000700 +0800">
+	<programme channel="动漫秀场" start="20260709000000 +0800" stop="20260709000800 +0800">
+		<title lang="zh">小狗皮皮2(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709000800 +0800" stop="20260709001600 +0800">
+		<title lang="zh">小狗皮皮2(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709001600 +0800" stop="20260709002400 +0800">
+		<title lang="zh">小狗皮皮2(5)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709002400 +0800" stop="20260709003200 +0800">
+		<title lang="zh">小狗皮皮2(6)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709003200 +0800" stop="20260709004400 +0800">
+		<title lang="zh">丰丰农场之肥虫豆豆(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709004400 +0800" stop="20260709005600 +0800">
+		<title lang="zh">丰丰农场之肥虫豆豆(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709005600 +0800" stop="20260709011000 +0800">
+		<title lang="zh">野生动物宝宝(17)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709011000 +0800" stop="20260709012400 +0800">
+		<title lang="zh">野生动物宝宝(18)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709012400 +0800" stop="20260709013800 +0800">
+		<title lang="zh">野生动物宝宝(19)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709013800 +0800" stop="20260709015200 +0800">
+		<title lang="zh">野生动物宝宝(20)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709015200 +0800" stop="20260709020300 +0800">
+		<title lang="zh">秦天龙王子(24)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709020300 +0800" stop="20260709021400 +0800">
+		<title lang="zh">秦天龙王子(25)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709021400 +0800" stop="20260709022500 +0800">
+		<title lang="zh">秦天龙王子(26)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709022500 +0800" stop="20260709023700 +0800">
+		<title lang="zh">三只松鼠之松鼠小镇(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709023700 +0800" stop="20260709025300 +0800">
+		<title lang="zh">三只松鼠之松鼠小镇(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709025300 +0800" stop="20260709030600 +0800">
+		<title lang="zh">三星堆荣耀觉醒(5)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709030600 +0800" stop="20260709031900 +0800">
+		<title lang="zh">三星堆荣耀觉醒(6)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709031900 +0800" stop="20260709033200 +0800">
+		<title lang="zh">三星堆荣耀觉醒(7)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709033200 +0800" stop="20260709034500 +0800">
+		<title lang="zh">三星堆荣耀觉醒(8)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709034500 +0800" stop="20260709040100 +0800">
+		<title lang="zh">三星堆荣耀觉醒(9)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709040100 +0800" stop="20260709040900 +0800">
+		<title lang="zh">小狗皮皮1(12)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709040900 +0800" stop="20260709041700 +0800">
+		<title lang="zh">小狗皮皮1(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709041700 +0800" stop="20260709042500 +0800">
+		<title lang="zh">小狗皮皮2(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709042500 +0800" stop="20260709043800 +0800">
+		<title lang="zh">小狗皮皮2(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709043800 +0800" stop="20260709045000 +0800">
+		<title lang="zh">丰丰农场之肥虫豆豆(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709045000 +0800" stop="20260709050200 +0800">
+		<title lang="zh">丰丰农场之肥虫豆豆(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709050200 +0800" stop="20260709050700 +0800">
+		<title lang="zh">少儿动画精彩片段(25)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709050700 +0800" stop="20260709052100 +0800">
+		<title lang="zh">野生动物宝宝(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709052100 +0800" stop="20260709053500 +0800">
+		<title lang="zh">野生动物宝宝(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709053500 +0800" stop="20260709054900 +0800">
+		<title lang="zh">野生动物宝宝(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709054900 +0800" stop="20260709060300 +0800">
+		<title lang="zh">野生动物宝宝(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709060300 +0800" stop="20260709061400 +0800">
+		<title lang="zh">秦天龙王子(19)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709061400 +0800" stop="20260709062500 +0800">
+		<title lang="zh">秦天龙王子(20)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709062500 +0800" stop="20260709063600 +0800">
+		<title lang="zh">秦天龙王子(21)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709063600 +0800" stop="20260709064700 +0800">
+		<title lang="zh">秦天龙王子(22)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709064700 +0800" stop="20260709065800 +0800">
+		<title lang="zh">秦天龙王子(23)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709065800 +0800" stop="20260709071100 +0800">
+		<title lang="zh">变形联盟之越空勇者(26)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709071100 +0800" stop="20260709072400 +0800">
+		<title lang="zh">三星堆荣耀觉醒(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709072400 +0800" stop="20260709073700 +0800">
+		<title lang="zh">三星堆荣耀觉醒(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709073700 +0800" stop="20260709075000 +0800">
+		<title lang="zh">三星堆荣耀觉醒(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709075000 +0800" stop="20260709080200 +0800">
+		<title lang="zh">三星堆荣耀觉醒(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709080200 +0800" stop="20260709081000 +0800">
+		<title lang="zh">小狗皮皮1(8)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709081000 +0800" stop="20260709081800 +0800">
+		<title lang="zh">小狗皮皮1(9)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709081800 +0800" stop="20260709082600 +0800">
+		<title lang="zh">小狗皮皮1(10)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709082600 +0800" stop="20260709083400 +0800">
+		<title lang="zh">小狗皮皮1(11)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709083400 +0800" stop="20260709084700 +0800">
+		<title lang="zh">丰丰农场之肥虫豆豆(11)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709084700 +0800" stop="20260709085900 +0800">
+		<title lang="zh">丰丰农场之肥虫豆豆(12)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709085900 +0800" stop="20260709090000 +0800">
+		<title lang="zh">荧屏直通车(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709090000 +0800" stop="20260709091400 +0800">
+		<title lang="zh">野生动物宝宝(9)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709091400 +0800" stop="20260709092800 +0800">
+		<title lang="zh">野生动物宝宝(10)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709092800 +0800" stop="20260709094200 +0800">
+		<title lang="zh">野生动物宝宝(11)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709094200 +0800" stop="20260709095600 +0800">
+		<title lang="zh">野生动物宝宝(12)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709095600 +0800" stop="20260709095700 +0800">
+		<title lang="zh">荧屏直通车(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709095700 +0800" stop="20260709100800 +0800">
+		<title lang="zh">秦天龙王子(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709100800 +0800" stop="20260709101900 +0800">
+		<title lang="zh">秦天龙王子(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709101900 +0800" stop="20260709103000 +0800">
+		<title lang="zh">秦天龙王子(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709103000 +0800" stop="20260709104100 +0800">
+		<title lang="zh">秦天龙王子(17)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709104100 +0800" stop="20260709105200 +0800">
+		<title lang="zh">秦天龙王子(18)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709105200 +0800" stop="20260709105300 +0800">
+		<title lang="zh">荧屏直通车(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709105300 +0800" stop="20260709110600 +0800">
+		<title lang="zh">变形联盟之越空勇者(21)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709110600 +0800" stop="20260709111900 +0800">
+		<title lang="zh">变形联盟之越空勇者(22)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709111900 +0800" stop="20260709113200 +0800">
+		<title lang="zh">变形联盟之越空勇者(23)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709113200 +0800" stop="20260709114500 +0800">
+		<title lang="zh">变形联盟之越空勇者(24)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709114500 +0800" stop="20260709115800 +0800">
+		<title lang="zh">变形联盟之越空勇者(25)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709115800 +0800" stop="20260709115900 +0800">
+		<title lang="zh">荧屏直通车(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709115900 +0800" stop="20260709120700 +0800">
+		<title lang="zh">小狗皮皮1(12)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709120700 +0800" stop="20260709121500 +0800">
+		<title lang="zh">小狗皮皮1(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709121500 +0800" stop="20260709122300 +0800">
+		<title lang="zh">小狗皮皮2(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709122300 +0800" stop="20260709123100 +0800">
+		<title lang="zh">小狗皮皮2(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709123100 +0800" stop="20260709123300 +0800">
+		<title lang="zh">荧屏直通车(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709123300 +0800" stop="20260709124500 +0800">
+		<title lang="zh">丰丰农场之肥虫豆豆(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709124500 +0800" stop="20260709125800 +0800">
+		<title lang="zh">丰丰农场之肥虫豆豆(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709125800 +0800" stop="20260709130000 +0800">
+		<title lang="zh">荧屏直通车(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709130000 +0800" stop="20260709131400 +0800">
+		<title lang="zh">野生动物宝宝(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709131400 +0800" stop="20260709132800 +0800">
+		<title lang="zh">野生动物宝宝(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709132800 +0800" stop="20260709134200 +0800">
+		<title lang="zh">野生动物宝宝(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709134200 +0800" stop="20260709135600 +0800">
+		<title lang="zh">野生动物宝宝(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709135600 +0800" stop="20260709135800 +0800">
+		<title lang="zh">荧屏直通车(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709135800 +0800" stop="20260709140900 +0800">
+		<title lang="zh">秦天龙王子(19)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709140900 +0800" stop="20260709142000 +0800">
+		<title lang="zh">秦天龙王子(20)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709142000 +0800" stop="20260709143100 +0800">
+		<title lang="zh">秦天龙王子(21)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709143100 +0800" stop="20260709144200 +0800">
+		<title lang="zh">秦天龙王子(22)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709144200 +0800" stop="20260709145300 +0800">
+		<title lang="zh">秦天龙王子(23)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709145300 +0800" stop="20260709145500 +0800">
+		<title lang="zh">荧屏直通车(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709145500 +0800" stop="20260709150800 +0800">
+		<title lang="zh">变形联盟之越空勇者(26)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709150800 +0800" stop="20260709152100 +0800">
+		<title lang="zh">三星堆荣耀觉醒(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709152100 +0800" stop="20260709153400 +0800">
+		<title lang="zh">三星堆荣耀觉醒(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709153400 +0800" stop="20260709154600 +0800">
+		<title lang="zh">三星堆荣耀觉醒(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709154600 +0800" stop="20260709160000 +0800">
+		<title lang="zh">三星堆荣耀觉醒(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709160000 +0800" stop="20260709160800 +0800">
+		<title lang="zh">小狗皮皮2(7)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709160800 +0800" stop="20260709161600 +0800">
+		<title lang="zh">小狗皮皮2(8)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709161600 +0800" stop="20260709162400 +0800">
+		<title lang="zh">小狗皮皮2(9)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709162400 +0800" stop="20260709163200 +0800">
+		<title lang="zh">小狗皮皮2(10)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709163200 +0800" stop="20260709164500 +0800">
+		<title lang="zh">丰丰农场之肥虫豆豆(17)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709164500 +0800" stop="20260709165700 +0800">
+		<title lang="zh">丰丰农场之肥虫豆豆(18)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709165700 +0800" stop="20260709170100 +0800">
+		<title lang="zh">少儿动画精彩片段(34)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709170100 +0800" stop="20260709171500 +0800">
+		<title lang="zh">野生动物宝宝(21)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709171500 +0800" stop="20260709172900 +0800">
+		<title lang="zh">野生动物宝宝(22)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709172900 +0800" stop="20260709174300 +0800">
+		<title lang="zh">野生动物宝宝(23)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260709174300 +0800" stop="20260710000000 +0800">
+		<title lang="zh">野生动物宝宝(24)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710000000 +0800" stop="20260710000700 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709000700 +0800" stop="20260709001400 +0800">
+	<programme channel="动漫秀场" start="20260710000700 +0800" stop="20260710001400 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709001400 +0800" stop="20260709002000 +0800">
+	<programme channel="动漫秀场" start="20260710001400 +0800" stop="20260710002000 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709002000 +0800" stop="20260709002700 +0800">
+	<programme channel="动漫秀场" start="20260710002000 +0800" stop="20260710002700 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709002700 +0800" stop="20260709003400 +0800">
+	<programme channel="动漫秀场" start="20260710002700 +0800" stop="20260710003300 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709003400 +0800" stop="20260709004700 +0800">
+	<programme channel="动漫秀场" start="20260710003300 +0800" stop="20260710004600 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709004700 +0800" stop="20260709010000 +0800">
+	<programme channel="动漫秀场" start="20260710004600 +0800" stop="20260710005900 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709010000 +0800" stop="20260709011300 +0800">
+	<programme channel="动漫秀场" start="20260710005900 +0800" stop="20260710010900 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709011300 +0800" stop="20260709012600 +0800">
+	<programme channel="动漫秀场" start="20260710010900 +0800" stop="20260710011800 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709012600 +0800" stop="20260709013900 +0800">
+	<programme channel="动漫秀场" start="20260710011800 +0800" stop="20260710012800 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709013900 +0800" stop="20260709015500 +0800">
+	<programme channel="动漫秀场" start="20260710012800 +0800" stop="20260710013800 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709015500 +0800" stop="20260709021000 +0800">
-		<title lang="zh">动画片</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260709021000 +0800" stop="20260709022500 +0800">
+	<programme channel="动漫秀场" start="20260710013800 +0800" stop="20260710014800 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709022500 +0800" stop="20260709024000 +0800">
+	<programme channel="动漫秀场" start="20260710014800 +0800" stop="20260710015800 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709024000 +0800" stop="20260709025900 +0800">
+	<programme channel="动漫秀场" start="20260710015800 +0800" stop="20260710021300 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709025900 +0800" stop="20260709031100 +0800">
+	<programme channel="动漫秀场" start="20260710021300 +0800" stop="20260710022800 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709031100 +0800" stop="20260709032300 +0800">
+	<programme channel="动漫秀场" start="20260710022800 +0800" stop="20260710024300 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709032300 +0800" stop="20260709033500 +0800">
+	<programme channel="动漫秀场" start="20260710024300 +0800" stop="20260710025800 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709033500 +0800" stop="20260709034700 +0800">
+	<programme channel="动漫秀场" start="20260710025800 +0800" stop="20260710031000 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709034700 +0800" stop="20260709040400 +0800">
+	<programme channel="动漫秀场" start="20260710031000 +0800" stop="20260710032200 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709040400 +0800" stop="20260709041100 +0800">
-		<title lang="zh">动画片</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260709041100 +0800" stop="20260709041700 +0800">
+	<programme channel="动漫秀场" start="20260710032200 +0800" stop="20260710033400 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709041700 +0800" stop="20260709042400 +0800">
+	<programme channel="动漫秀场" start="20260710033400 +0800" stop="20260710034600 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709042400 +0800" stop="20260709043100 +0800">
+	<programme channel="动漫秀场" start="20260710034600 +0800" stop="20260710040200 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709043100 +0800" stop="20260709044400 +0800">
+	<programme channel="动漫秀场" start="20260710040200 +0800" stop="20260710040900 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709044400 +0800" stop="20260709045700 +0800">
-		<title lang="zh">动画片</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260709045700 +0800" stop="20260709051300 +0800">
+	<programme channel="动漫秀场" start="20260710040900 +0800" stop="20260710041600 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709051300 +0800" stop="20260709052600 +0800">
+	<programme channel="动漫秀场" start="20260710041600 +0800" stop="20260710042300 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709052600 +0800" stop="20260709053900 +0800">
+	<programme channel="动漫秀场" start="20260710042300 +0800" stop="20260710042900 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709053900 +0800" stop="20260709055200 +0800">
+	<programme channel="动漫秀场" start="20260710042900 +0800" stop="20260710044100 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709055200 +0800" stop="20260709060500 +0800">
-		<title lang="zh">动画剧场</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260709060500 +0800" stop="20260709062000 +0800">
+	<programme channel="动漫秀场" start="20260710044100 +0800" stop="20260710045300 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709062000 +0800" stop="20260709063500 +0800">
+	<programme channel="动漫秀场" start="20260710045300 +0800" stop="20260710051200 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709063500 +0800" stop="20260709065000 +0800">
+	<programme channel="动漫秀场" start="20260710051200 +0800" stop="20260710052500 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709065000 +0800" stop="20260709070500 +0800">
+	<programme channel="动漫秀场" start="20260710052500 +0800" stop="20260710053800 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709070500 +0800" stop="20260709071700 +0800">
+	<programme channel="动漫秀场" start="20260710053800 +0800" stop="20260710055100 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709071700 +0800" stop="20260709072900 +0800">
+	<programme channel="动漫秀场" start="20260710055100 +0800" stop="20260710060400 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709072900 +0800" stop="20260709074100 +0800">
+	<programme channel="动漫秀场" start="20260710060400 +0800" stop="20260710061900 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709074100 +0800" stop="20260709075300 +0800">
+	<programme channel="动漫秀场" start="20260710061900 +0800" stop="20260710063400 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709075300 +0800" stop="20260709080600 +0800">
+	<programme channel="动漫秀场" start="20260710063400 +0800" stop="20260710064900 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709080600 +0800" stop="20260709081300 +0800">
+	<programme channel="动漫秀场" start="20260710064900 +0800" stop="20260710070400 +0800">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709081300 +0800" stop="20260709082000 +0800">
+	<programme channel="动漫秀场" start="20260710070400 +0800" stop="20260710071600 +0800">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260709082000 +0800" stop="20260709082600 +0800">
+	<programme channel="动漫秀场" start="20260710071600 +0800" stop="20260710072800 +0800">
 		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710072800 +0800" stop="20260710074000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710074000 +0800" stop="20260710075200 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710075200 +0800" stop="20260710080500 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710080500 +0800" stop="20260710081200 +0800">
+		<title lang="zh">动画片</title>
 	</programme>
 	<channel id="海南卫视">
 		<display-name lang="zh">海南卫视</display-name>
@@ -17304,7 +17661,7 @@
 	<programme channel="海南卫视" start="20260707232000 +0800" stop="20260708001500 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260708001500 +0800" stop="20260708010000 +0800">
+	<programme channel="海南卫视" start="20260708001800 +0800" stop="20260708010000 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20260708010000 +0800" stop="20260708070000 +0800">
@@ -17381,5 +17738,38 @@
 	</programme>
 	<programme channel="海南卫视" start="20260709073300 +0800" stop="20260709180800 +0800">
 		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709073300 +0800" stop="20260709180800 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709180800 +0800" stop="20260709182200 +0800">
+		<title lang="zh">天眼归来之幸福配方</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709182200 +0800" stop="20260709183000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709183000 +0800" stop="20260709190000 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709190000 +0800" stop="20260709193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709193000 +0800" stop="20260709195500 +0800">
+		<title lang="zh">潮起海之南</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709195500 +0800" stop="20260709202200 +0800">
+		<title lang="zh">视界</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709202200 +0800" stop="20260709202800 +0800">
+		<title lang="zh">海南自贸港志愿行</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709202800 +0800" stop="20260709222500 +0800">
+		<title lang="zh">金椰剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709222500 +0800" stop="20260709232000 +0800">
+		<title lang="zh">星光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709232000 +0800" stop="20260710001500 +0800">
+		<title lang="zh">卫视高尔夫</title>
 	</programme>
 </tv>
