@@ -1,59 +1,37 @@
 🕘️更新时间,#genre#
-2026-07-27 05:06:38,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2$订阅源
+2026-07-27 19:30:44,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2$订阅源
 CCTV-3,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3$订阅源
 CCTV-4,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4$订阅源
-CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807416$订阅源
 CCTV-5,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5$订阅源
 CCTV-5,https://85e7-724c-30ec-0b74.kylintv.tv/live/cctv5hd_iphone.m3u8$订阅源
-CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683$订阅源
 CCTV-5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p$订阅源
 CCTV-6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6$订阅源
 CCTV-7,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7$订阅源
-CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121$订阅源
 CCTV-8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8$订阅源
 CCTV-8,https://cdn16.123.rr.kg/163189/cctv8$订阅源
-CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356$订阅源
 CCTV-9,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9$订阅源
-CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140$订阅源
 CCTV-10,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10$订阅源
 CCTV-11,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv11$订阅源
-CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558$订阅源
 CCTV-12,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12$订阅源
 CCTV-12,https://cdn16.123.rr.kg/163189/cctv12$订阅源
-CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185$订阅源
 CCTV-13,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13$订阅源
 CCTV-13,https://cdn16.123.rr.kg/163189/cctv13$订阅源
-CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423$订阅源
 CCTV-14,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14$订阅源
 CCTV-14,https://cdn16.123.rr.kg/163189/cctv14$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
-CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440$订阅源
 CCTV-15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15$订阅源
-CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223$订阅源
+CCTV-15,https://cdn16.123.rr.kg/163189/cctv15$订阅源
 CCTV-16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16$订阅源
 CCTV-16,https://cdn16.123.rr.kg/163189/cctv16$订阅源
 CCTV-17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17$订阅源
 CCTV-17,https://cdn16.123.rr.kg/163189/cctv17$订阅源
-CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256$订阅源
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-贵州卫视,https://live.chinacert.cftest5.cn/zgst/live/guizhou$订阅源
-海南卫视,https://live.chinacert.cftest5.cn/zgst/live/hainan$订阅源
-吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin$订阅源
-内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu$订阅源
-宁夏卫视,https://live.chinacert.cftest5.cn/zgst/live/ningxia$订阅源
-山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong$订阅源
-深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen$订阅源
-三沙卫视,https://live.chinacert.cftest5.cn/zgst/live/sansha$订阅源
-天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin$订阅源
-西藏卫视,https://live.chinacert.cftest5.cn/zgst/live/xizang$订阅源
-新疆卫视,https://live.chinacert.cftest5.cn/zgst/live/xinjiang$订阅源
-云南卫视,https://live.chinacert.cftest5.cn/zgst/live/yunnan$订阅源
 
 ☘️吉林频道,#genre#
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8$订阅源
@@ -67,7 +45,6 @@ CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256$订阅源
 🏀体育频道,#genre#
 CCTV-5,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5$订阅源
 CCTV-5,https://85e7-724c-30ec-0b74.kylintv.tv/live/cctv5hd_iphone.m3u8$订阅源
-CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683$订阅源
 CCTV-5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p$订阅源
 广东体育,https://cdn.qd.je/163189/gdty$订阅源
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8$订阅源
@@ -86,18 +63,12 @@ CCTV-5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p$订阅源
 
 🎵音乐频道,#genre#
 CCTV-15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15$订阅源
-CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223$订阅源
+CCTV-15,https://cdn16.123.rr.kg/163189/cctv15$订阅源
 
 🏛经典剧场,#genre#
-笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=23865142$订阅源
 笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
-天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=20985816$订阅源
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
-西游记,http://cdn.jdshipin.com:8880/huya.php?id=26355861$订阅源
 西游记,https://live.metshop.top/huya/26355861$订阅源
-三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081$订阅源
 三国演义,https://live.metshop.top/huya/11602081$订阅源
-封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849$订阅源
 封神榜,https://live.metshop.top/huya/29465849$订阅源
-射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164$订阅源
 射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
