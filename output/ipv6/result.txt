@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-29 05:16:40,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2$订阅源
+2026-07-29 18:48:11,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2$订阅源
@@ -60,8 +60,8 @@ CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256$订阅源
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8$订阅源
 
 🎬电影频道,#genre#
-天映经典,https://php.jdshipin.com:2096/smt.php?id=Celestial2$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
+天映经典,https://php.jdshipin.com:2096/smt.php?id=Celestial2$订阅源
 
 🎥咪咕直播,#genre#
 
