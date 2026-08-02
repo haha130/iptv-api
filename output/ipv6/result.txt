@@ -1,13 +1,15 @@
 🕘️更新时间,#genre#
-2026-08-02 05:01:45,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3$订阅源
+2026-08-02 18:05:08,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3$订阅源
 
 📺央视频道,#genre#
 CCTV-3,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3$订阅源
 CCTV-4,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4$订阅源
+CCTV-4,https://cdn16.123.rr.kg/163189/cctv4$订阅源
 CCTV-5,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5$订阅源
 CCTV-5,https://85e7-724c-30ec-0b74.kylintv.tv/live/cctv5hd_iphone.m3u8$订阅源
 CCTV-5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p$订阅源
 CCTV-5+,https://cdn16.123.rr.kg/163189/cctv5p$订阅源
+CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com$订阅源
 CCTV-6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6$订阅源
 CCTV-7,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7$订阅源
 CCTV-7,https://cdn16.123.rr.kg/163189/cctv7$订阅源
