@@ -1,29 +1,34 @@
 🕘️更新时间,#genre#
-2026-08-09 16:50:54,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com$订阅源
+2026-08-10 04:40:02,https://cdn16.123.rr.kg/163189/cctv5p$订阅源
 
 📺央视频道,#genre#
+CCTV-5+,https://cdn16.123.rr.kg/163189/cctv5p$订阅源
 CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com$订阅源
+CCTV-6,https://cdn16.123.rr.kg/163189/cctv6$订阅源
+CCTV-7,https://cdn16.123.rr.kg/163189/cctv7$订阅源
+CCTV-8,https://cdn16.123.rr.kg/163189/cctv8$订阅源
+CCTV-9,https://cdn16.123.rr.kg/163189/cctv9$订阅源
+CCTV-11,https://cdn16.123.rr.kg/163189/cctv11$订阅源
+CCTV-12,https://cdn16.123.rr.kg/163189/cctv12$订阅源
+CCTV-13,https://cdn16.123.rr.kg/163189/cctv13$订阅源
+CCTV-14,https://cdn16.123.rr.kg/163189/cctv14$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440$订阅源
+CCTV-15,https://cdn16.123.rr.kg/163189/cctv15$订阅源
 CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223$订阅源
-CCTV-16,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv16ay$订阅源
-CCTV-17,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv17ny$订阅源
+CCTV-16,https://cdn16.123.rr.kg/163189/cctv16$订阅源
+CCTV-17,https://cdn16.123.rr.kg/163189/cctv17$订阅源
 CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256$订阅源
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-湖北卫视,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wshubei$订阅源
-黑龙江卫视,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wsheilongjiang$订阅源
 贵州卫视,https://live.chinacert.cftest5.cn/zgst/live/guizhou$订阅源
-海南卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wshainan$订阅源
 海南卫视,https://live.chinacert.cftest5.cn/zgst/live/hainan$订阅源
 吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin$订阅源
-内蒙古卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsneimenggu$订阅源
 内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu$订阅源
 宁夏卫视,https://live.chinacert.cftest5.cn/zgst/live/ningxia$订阅源
 山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong$订阅源
-深圳卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshenzhen$订阅源
 深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen$订阅源
 三沙卫视,https://live.chinacert.cftest5.cn/zgst/live/sansha$订阅源
 天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin$订阅源
@@ -40,6 +45,7 @@ CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256$订阅源
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+CCTV-5+,https://cdn16.123.rr.kg/163189/cctv5p$订阅源
 广东体育,https://cdn.qd.je/163189/gdty$订阅源
 五星体育,https://cdn.qd.je/163189/wxty$订阅源
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8$订阅源
@@ -51,8 +57,11 @@ CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
 猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
+经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
+漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
 🎵音乐频道,#genre#
+CCTV-15,https://cdn16.123.rr.kg/163189/cctv15$订阅源
 CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223$订阅源
 
 🏛经典剧场,#genre#
