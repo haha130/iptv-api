@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-11 04:51:05,https://cdn16.123.rr.kg/163189/cctv5$订阅源
+2026-08-11 17:04:46,https://cdn16.123.rr.kg/163189/cctv5$订阅源
 
 📺央视频道,#genre#
 CCTV-5,https://cdn16.123.rr.kg/163189/cctv5$订阅源
@@ -26,10 +26,12 @@ CCTV-14,https://cdn16.123.rr.kg/163189/cctv14$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15$订阅源
 CCTV-15,https://cdn16.123.rr.kg/163189/cctv15$订阅源
+CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223$订阅源
 CCTV-16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16$订阅源
 CCTV-16,https://cdn16.123.rr.kg/163189/cctv16$订阅源
 CCTV-17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17$订阅源
 CCTV-17,https://cdn16.123.rr.kg/163189/cctv17$订阅源
+CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256$订阅源
 CETV-1,http://tv123.cc.cd/live.php?ch=2443&sid=2374bdd3b037fece7b63e0f90c608da1&exp=1786374444&sig=ce5f6da1ca3163589967ac7232f1128b719a804a78e77eaff9a43cb5c7754693$订阅源
 CETV-2,http://tv123.cc.cd/live.php?ch=2444&sid=2374bdd3b037fece7b63e0f90c608da1&exp=1786374444&sig=b174a20ac40bb94bbaa4e4b73dbf833f24d79bd64c2acfa6b756d2a698e8c099$订阅源
 CETV-4,http://tv123.cc.cd/live.php?ch=2445&sid=2374bdd3b037fece7b63e0f90c608da1&exp=1786374444&sig=c2a215f87c385cb4d7f097faa33c45ac728d43ff0d4fd414d8ca001c563dd2cf$订阅源
@@ -37,6 +39,18 @@ CETV-4,http://tv123.cc.cd/live.php?ch=2445&sid=2374bdd3b037fece7b63e0f90c608da1&
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+贵州卫视,https://live.chinacert.cftest5.cn/zgst/live/guizhou$订阅源
+海南卫视,https://live.chinacert.cftest5.cn/zgst/live/hainan$订阅源
+吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin$订阅源
+内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu$订阅源
+宁夏卫视,https://live.chinacert.cftest5.cn/zgst/live/ningxia$订阅源
+山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong$订阅源
+深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen$订阅源
+三沙卫视,https://live.chinacert.cftest5.cn/zgst/live/sansha$订阅源
+天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin$订阅源
+西藏卫视,https://live.chinacert.cftest5.cn/zgst/live/xizang$订阅源
+新疆卫视,https://live.chinacert.cftest5.cn/zgst/live/xinjiang$订阅源
+云南卫视,https://live.chinacert.cftest5.cn/zgst/live/yunnan$订阅源
 
 ☘️吉林频道,#genre#
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8$订阅源
@@ -65,6 +79,7 @@ CCTV-5+,https://cdn16.123.rr.kg/163189/cctv5p$订阅源
 🎵音乐频道,#genre#
 CCTV-15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15$订阅源
 CCTV-15,https://cdn16.123.rr.kg/163189/cctv15$订阅源
+CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223$订阅源
 
 🏛经典剧场,#genre#
 笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
