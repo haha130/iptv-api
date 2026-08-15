@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2026-08-15 04:39:56,https://cdn16.123.rr.kg/163189/cctv3$订阅源
+2026-08-15 16:37:55,https://cdn16.123.rr.kg/163189/cctv3$订阅源
 
 📺央视频道,#genre#
 CCTV-3,https://cdn16.123.rr.kg/163189/cctv3$订阅源
 CCTV-4,https://0a73-927f-c5b9-8335.kylintv.tv/live/cctv4hd_iphone.m3u8$订阅源
 CCTV-5,https://cdn16.123.rr.kg/163189/cctv5$订阅源
 CCTV-5+,https://cdn16.123.rr.kg/163189/cctv5p$订阅源
-CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com$订阅源
 CCTV-6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6$订阅源
 CCTV-6,https://cdn16.123.rr.kg/163189/cctv6$订阅源
+CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com$订阅源
 CCTV-7,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7$订阅源
 CCTV-7,https://cdn16.123.rr.kg/163189/cctv7$订阅源
 CCTV-8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8$订阅源
@@ -33,10 +33,10 @@ CCTV-16,https://cdn16.123.rr.kg/163189/cctv16$订阅源
 CCTV-17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17$订阅源
 CCTV-17,https://cdn16.123.rr.kg/163189/cctv17$订阅源
 CETV-1,http://tv123.cc.cd/live.php?ch=2443&sid=2374bdd3b037fece7b63e0f90c608da1&exp=1786374444&sig=ce5f6da1ca3163589967ac7232f1128b719a804a78e77eaff9a43cb5c7754693$订阅源
-CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211$订阅源
 CETV-2,http://tv123.cc.cd/live.php?ch=2444&sid=2374bdd3b037fece7b63e0f90c608da1&exp=1786374444&sig=b174a20ac40bb94bbaa4e4b73dbf833f24d79bd64c2acfa6b756d2a698e8c099$订阅源
-CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339$订阅源
+CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211$订阅源
 CETV-4,http://tv123.cc.cd/live.php?ch=2445&sid=2374bdd3b037fece7b63e0f90c608da1&exp=1786374444&sig=c2a215f87c385cb4d7f097faa33c45ac728d43ff0d4fd414d8ca001c563dd2cf$订阅源
+CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339$订阅源
 
 💰央视付费频道,#genre#
 第一剧场,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/chinamovie_iphone.m3u8$订阅源
