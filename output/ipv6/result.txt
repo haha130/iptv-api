@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-16 04:30:46,https://cdn16.123.rr.kg/163189/cctv3$订阅源
+2026-08-16 16:40:15,https://cdn16.123.rr.kg/163189/cctv3$订阅源
 
 📺央视频道,#genre#
 CCTV-3,https://cdn16.123.rr.kg/163189/cctv3$订阅源
@@ -79,6 +79,8 @@ CCTV-5+,https://cdn16.123.rr.kg/163189/cctv5p$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
 猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
+经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
+漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
 🎵音乐频道,#genre#
 CCTV-15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15$订阅源
