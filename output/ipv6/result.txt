@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-26 04:36:59,https://cdn16.123.rr.kg/163189/cctv3$订阅源
+2026-08-26 16:50:18,https://cdn16.123.rr.kg/163189/cctv3$订阅源
 
 📺央视频道,#genre#
 CCTV-3,https://cdn16.123.rr.kg/163189/cctv3$订阅源
@@ -22,8 +22,8 @@ CCTV-12,https://cdn16.123.rr.kg/163189/cctv12$订阅源
 CCTV-13,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13$订阅源
 CCTV-13,https://cdn16.123.rr.kg/163189/cctv13$订阅源
 CCTV-14,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14$订阅源
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-14,https://cdn16.123.rr.kg/163189/cctv14$订阅源
+CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15$订阅源
 CCTV-15,https://cdn16.123.rr.kg/163189/cctv15$订阅源
 CCTV-16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16$订阅源
@@ -35,9 +35,9 @@ CETV-2,http://tv123.cc.cd/live.php?ch=2444&sid=2374bdd3b037fece7b63e0f90c608da1&
 CETV-4,http://tv123.cc.cd/live.php?ch=2445&sid=2374bdd3b037fece7b63e0f90c608da1&exp=1786374444&sig=c2a215f87c385cb4d7f097faa33c45ac728d43ff0d4fd414d8ca001c563dd2cf$订阅源
 
 💰央视付费频道,#genre#
+第一剧场,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8$订阅源
 
 📡卫视频道,#genre#
-海南卫视,https://live.chinacert.cftest5.cn/zgst/live/hainan$订阅源
 吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin$订阅源
 内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu$订阅源
 宁夏卫视,https://live.chinacert.cftest5.cn/zgst/live/ningxia$订阅源
@@ -63,11 +63,8 @@ CETV-4,http://tv123.cc.cd/live.php?ch=2445&sid=2374bdd3b037fece7b63e0f90c608da1&
 🏀体育频道,#genre#
 CCTV-5,https://cdn16.123.rr.kg/163189/cctv5$订阅源
 CCTV-5+,https://cdn16.123.rr.kg/163189/cctv5p$订阅源
-精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8$订阅源
 
 🪁动画频道,#genre#
-优漫卡通,https://epg.pw/stream/9a50e666912cb82bd584eb50bb030b7f654275ed05a586ef3c63ac39789df94b.m3u8$订阅源
-金鹰卡通,https://epg.pw/stream/10c162a19187277452e11fbe6cc81e691467a45e9aaa62427d2ba9ed3d5254b9.m3u8$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
