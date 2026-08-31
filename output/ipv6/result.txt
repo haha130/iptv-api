@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-31 06:36:45,https://cdn16.123.rr.kg/163189/cctv3$订阅源
+2026-09-01 00:02:56,https://cdn16.123.rr.kg/163189/cctv3$订阅源
 
 📺央视频道,#genre#
 CCTV-3,https://cdn16.123.rr.kg/163189/cctv3$订阅源
@@ -39,7 +39,15 @@ CETV-4,http://tv123.cc.cd/live.php?ch=2445&sid=2374bdd3b037fece7b63e0f90c608da1&
 
 📡卫视频道,#genre#
 河北卫视,https://event.pull.hebtv.com/live/live101.m3u8$订阅源
+宁夏卫视,https://live.chinacert.cftest5.cn/zgst/live/ningxia$订阅源
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
+山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong$订阅源
+深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen$订阅源
+三沙卫视,https://live.chinacert.cftest5.cn/zgst/live/sansha$订阅源
+天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin$订阅源
+西藏卫视,https://live.chinacert.cftest5.cn/zgst/live/xizang$订阅源
+新疆卫视,https://live.chinacert.cftest5.cn/zgst/live/xinjiang$订阅源
+云南卫视,https://live.chinacert.cftest5.cn/zgst/live/yunnan$订阅源
 
 ☘️吉林频道,#genre#
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8$订阅源
@@ -56,6 +64,7 @@ CETV-4,http://tv123.cc.cd/live.php?ch=2445&sid=2374bdd3b037fece7b63e0f90c608da1&
 🏀体育频道,#genre#
 CCTV-5,https://cdn16.123.rr.kg/163189/cctv5$订阅源
 CCTV-5+,https://cdn16.123.rr.kg/163189/cctv5p$订阅源
+江苏体育,https://live.chinacert.cftest5.cn/cnmg/live/626064707$订阅源
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8$订阅源
 
 🪁动画频道,#genre#
@@ -75,7 +84,7 @@ CCTV-15,https://cdn16.123.rr.kg/163189/cctv15$订阅源
 🏛经典剧场,#genre#
 笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
-天龙八部,https://live.ottiptv.cc/huya/20985816$订阅源
+天龙八部,https://live.ottiptv.cc/yy/1351814644$订阅源
 鹿鼎记,https://live.ottiptv.cc/yy/28265277$订阅源
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903$订阅源
 西游记,https://live.metshop.top/huya/26355861$订阅源
