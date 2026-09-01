@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-09-01 21:16:52,https://cdn16.123.rr.kg/163189/cctv3$订阅源
+2026-09-02 06:33:51,https://cdn16.123.rr.kg/163189/cctv5$订阅源
 
 📺央视频道,#genre#
-CCTV-3,https://cdn16.123.rr.kg/163189/cctv3$订阅源
 CCTV-5,https://cdn16.123.rr.kg/163189/cctv5$订阅源
 CCTV-5+,https://cdn16.123.rr.kg/163189/cctv5p$订阅源
 CCTV-6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6$订阅源
