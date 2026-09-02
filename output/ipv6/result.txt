@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-09-02 06:33:51,https://cdn16.123.rr.kg/163189/cctv5$订阅源
+2026-09-02 20:44:32,https://cdn16.123.rr.kg/163189/cctv5p$订阅源
 
 📺央视频道,#genre#
-CCTV-5,https://cdn16.123.rr.kg/163189/cctv5$订阅源
 CCTV-5+,https://cdn16.123.rr.kg/163189/cctv5p$订阅源
 CCTV-6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6$订阅源
 CCTV-6,https://cdn16.123.rr.kg/163189/cctv6$订阅源
@@ -61,7 +60,6 @@ CETV-4,http://tv123.cc.cd/live.php?ch=2445&sid=2374bdd3b037fece7b63e0f90c608da1&
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-CCTV-5,https://cdn16.123.rr.kg/163189/cctv5$订阅源
 CCTV-5+,https://cdn16.123.rr.kg/163189/cctv5p$订阅源
 江苏体育,https://live.chinacert.cftest5.cn/cnmg/live/626064707$订阅源
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8$订阅源
