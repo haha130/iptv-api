@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-11 06:24:57,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6$订阅源
+2026-09-11 20:48:47,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6$订阅源
 
 📺央视频道,#genre#
 CCTV-6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6$订阅源
@@ -35,8 +35,13 @@ CETV-4,http://tv123.cc.cd/live.php?ch=2445&sid=2374bdd3b037fece7b63e0f90c608da1&
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8$订阅源
 
 🎬电影频道,#genre#
+靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837$订阅源
+靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$订阅源
+靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055$订阅源
+靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 天映经典,https://php.jdshipin.com:2096/smt.php?id=Celestial2$订阅源
+天映经典,https://cdn3.indevs.in/stream/live/ccm/$订阅源
 无线星河,http://r.jdshipin.com/sXuuD$订阅源
 
 🎥咪咕直播,#genre#
@@ -61,7 +66,15 @@ CCTV-15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15$订阅源
 🏛经典剧场,#genre#
 笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
+鹿鼎记,https://live.ottiptv.cc/yy/28265277$订阅源
+仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903$订阅源
+西游记,https://live.ottiptv.cc/huya/26355861$订阅源
 西游记,https://live.metshop.top/huya/26355861$订阅源
+三国演义,https://live.ottiptv.cc/huya/11602081$订阅源
 三国演义,https://live.metshop.top/huya/11602081$订阅源
+水浒传,https://live.ottiptv.cc/yy/1353873252$订阅源
+新白娘子传奇,https://live.ottiptv.cc/yy/1354490667$订阅源
+封神榜,https://live.ottiptv.cc/huya/29465849$订阅源
 封神榜,https://live.metshop.top/huya/29465849$订阅源
+射雕英雄传,https://live.ottiptv.cc/huya/23824164$订阅源
 射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
