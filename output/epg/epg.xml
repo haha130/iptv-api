@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260912220637 +0800">
+<tv date="20260913131741 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7707,6 +7707,63 @@
 	<programme channel="优漫卡通" start="20260914125500 +0800" stop="20260914135500 +0800">
 		<title lang="zh">无敌鹿战队</title>
 	</programme>
+	<programme channel="优漫卡通" start="20260914125500 +0800" stop="20260914135500 +0800">
+		<title lang="zh">无敌鹿战队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914135500 +0800" stop="20260914140000 +0800">
+		<title lang="zh">新大头儿子和小头爸爸英雄梦</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914140000 +0800" stop="20260914150000 +0800">
+		<title lang="zh">猪猪侠超星五灵侠</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914150000 +0800" stop="20260914160000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914160000 +0800" stop="20260914170000 +0800">
+		<title lang="zh">无敌鹿战队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914170000 +0800" stop="20260914180000 +0800">
+		<title lang="zh">超级飞侠</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914180000 +0800" stop="20260914182500 +0800">
+		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914182500 +0800" stop="20260914185500 +0800">
+		<title lang="zh">奇妙萌可</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914185500 +0800" stop="20260914190000 +0800">
+		<title lang="zh">新大头儿子和小头爸爸英雄梦</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914190000 +0800" stop="20260914190500 +0800">
+		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914190500 +0800" stop="20260914192000 +0800">
+		<title lang="zh">宠物旅店</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914192000 +0800" stop="20260914195000 +0800">
+		<title lang="zh">奶龙之奇妙冒险</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914195000 +0800" stop="20260914200500 +0800">
+		<title lang="zh">新大头儿子和小头爸爸欢乐亲子营</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914200500 +0800" stop="20260914210000 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914210000 +0800" stop="20260914220000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914220000 +0800" stop="20260914230000 +0800">
+		<title lang="zh">超级飞侠</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914230000 +0800" stop="20260914231500 +0800">
+		<title lang="zh">宠物旅店</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914231500 +0800" stop="20260914234500 +0800">
+		<title lang="zh">奶龙之奇妙冒险</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260914234500 +0800" stop="20260915000000 +0800">
+		<title lang="zh">新大头儿子和小头爸爸欢乐亲子营</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -9792,6 +9849,315 @@
 	<programme channel="动漫秀场" start="20260913170000 +0800" stop="20260914000000 +0800">
 		<title lang="zh">荒岛历险记之罗克和编程猫(13)</title>
 	</programme>
+	<programme channel="动漫秀场" start="20260914000000 +0800" stop="20260914000400 +0800">
+		<title lang="zh">拇指总动员Ⅰ(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914000400 +0800" stop="20260914000800 +0800">
+		<title lang="zh">拇指总动员Ⅰ(5)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914000800 +0800" stop="20260914001100 +0800">
+		<title lang="zh">拇指总动员Ⅰ(6)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914001100 +0800" stop="20260914002200 +0800">
+		<title lang="zh">百变布鲁可Ⅳ(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914002200 +0800" stop="20260914003400 +0800">
+		<title lang="zh">百变布鲁可Ⅳ(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914003400 +0800" stop="20260914004500 +0800">
+		<title lang="zh">百变布鲁可Ⅳ(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914004500 +0800" stop="20260914010000 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(9)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914010000 +0800" stop="20260914011500 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(10)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914011500 +0800" stop="20260914013000 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(11)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914013000 +0800" stop="20260914014500 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(12)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914014500 +0800" stop="20260914020000 +0800">
+		<title lang="zh">冒险小狗帮(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914020000 +0800" stop="20260914021500 +0800">
+		<title lang="zh">冒险小狗帮(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914021500 +0800" stop="20260914023000 +0800">
+		<title lang="zh">冒险小狗帮(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914023000 +0800" stop="20260914024500 +0800">
+		<title lang="zh">冒险小狗帮(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914024500 +0800" stop="20260914025800 +0800">
+		<title lang="zh">变形联盟之超变战神(21)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914025800 +0800" stop="20260914031100 +0800">
+		<title lang="zh">变形联盟之超变战神(22)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914031100 +0800" stop="20260914032400 +0800">
+		<title lang="zh">变形联盟之超变战神(23)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914032400 +0800" stop="20260914033700 +0800">
+		<title lang="zh">变形联盟之超变战神(24)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914033700 +0800" stop="20260914035000 +0800">
+		<title lang="zh">变形联盟之超变战神(25)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914035000 +0800" stop="20260914035300 +0800">
+		<title lang="zh">拇指总动员Ⅰ(7)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914035300 +0800" stop="20260914035700 +0800">
+		<title lang="zh">拇指总动员Ⅰ(8)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914035700 +0800" stop="20260914040000 +0800">
+		<title lang="zh">拇指总动员Ⅰ(9)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914040000 +0800" stop="20260914040400 +0800">
+		<title lang="zh">拇指总动员Ⅰ(10)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914040400 +0800" stop="20260914040800 +0800">
+		<title lang="zh">拇指总动员Ⅱ(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914040800 +0800" stop="20260914041100 +0800">
+		<title lang="zh">拇指总动员Ⅱ(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914041100 +0800" stop="20260914042300 +0800">
+		<title lang="zh">百变布鲁可Ⅳ(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914042300 +0800" stop="20260914043400 +0800">
+		<title lang="zh">百变布鲁可Ⅳ(17)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914043400 +0800" stop="20260914044600 +0800">
+		<title lang="zh">百变布鲁可Ⅳ(18)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914044600 +0800" stop="20260914050100 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914050100 +0800" stop="20260914051500 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914051500 +0800" stop="20260914053000 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914053000 +0800" stop="20260914054500 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914054500 +0800" stop="20260914060000 +0800">
+		<title lang="zh">冒险小狗帮(17)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914060000 +0800" stop="20260914061500 +0800">
+		<title lang="zh">冒险小狗帮(18)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914061500 +0800" stop="20260914063000 +0800">
+		<title lang="zh">冒险小狗帮(19)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914063000 +0800" stop="20260914064500 +0800">
+		<title lang="zh">冒险小狗帮(20)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914064500 +0800" stop="20260914065800 +0800">
+		<title lang="zh">变形联盟之超变战神(26)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914065800 +0800" stop="20260914071100 +0800">
+		<title lang="zh">变形联盟之超变战神(27)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914071100 +0800" stop="20260914072400 +0800">
+		<title lang="zh">变形联盟之超变战神(28)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914072400 +0800" stop="20260914073700 +0800">
+		<title lang="zh">变形联盟之超变战神(29)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914073700 +0800" stop="20260914075000 +0800">
+		<title lang="zh">变形联盟之超变战神(30)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914075000 +0800" stop="20260914075600 +0800">
+		<title lang="zh">毛毛镇Ⅲ(48)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914075600 +0800" stop="20260914080300 +0800">
+		<title lang="zh">毛毛镇Ⅲ(49)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914080300 +0800" stop="20260914080900 +0800">
+		<title lang="zh">毛毛镇Ⅲ(50)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914080900 +0800" stop="20260914081500 +0800">
+		<title lang="zh">毛毛镇Ⅲ(51)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914081500 +0800" stop="20260914082200 +0800">
+		<title lang="zh">毛毛镇Ⅲ(52)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914082200 +0800" stop="20260914083300 +0800">
+		<title lang="zh">百变布鲁可Ⅳ(11)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914132200 +0800" stop="20260914133700 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914133700 +0800" stop="20260914135200 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914135200 +0800" stop="20260914135400 +0800">
+		<title lang="zh">荧屏直通车(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914135400 +0800" stop="20260914140900 +0800">
+		<title lang="zh">冒险小狗帮(17)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914140900 +0800" stop="20260914142400 +0800">
+		<title lang="zh">冒险小狗帮(18)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914142400 +0800" stop="20260914143900 +0800">
+		<title lang="zh">冒险小狗帮(19)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914143900 +0800" stop="20260914145500 +0800">
+		<title lang="zh">冒险小狗帮(20)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914145500 +0800" stop="20260914145700 +0800">
+		<title lang="zh">荧屏直通车(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914145700 +0800" stop="20260914151000 +0800">
+		<title lang="zh">变形联盟之超变战神(26)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914151000 +0800" stop="20260914152300 +0800">
+		<title lang="zh">变形联盟之超变战神(27)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914152300 +0800" stop="20260914153500 +0800">
+		<title lang="zh">变形联盟之超变战神(28)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914153500 +0800" stop="20260914154800 +0800">
+		<title lang="zh">变形联盟之超变战神(29)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914154800 +0800" stop="20260914160200 +0800">
+		<title lang="zh">变形联盟之超变战神(30)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914160200 +0800" stop="20260914160600 +0800">
+		<title lang="zh">拇指总动员Ⅱ(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914160600 +0800" stop="20260914161000 +0800">
+		<title lang="zh">拇指总动员Ⅱ(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914161000 +0800" stop="20260914161400 +0800">
+		<title lang="zh">拇指总动员Ⅱ(5)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914161400 +0800" stop="20260914161700 +0800">
+		<title lang="zh">拇指总动员Ⅱ(6)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914161700 +0800" stop="20260914162100 +0800">
+		<title lang="zh">拇指总动员Ⅱ(7)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914162100 +0800" stop="20260914162500 +0800">
+		<title lang="zh">拇指总动员Ⅱ(8)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914162500 +0800" stop="20260914163700 +0800">
+		<title lang="zh">百变布鲁可Ⅳ(19)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914163700 +0800" stop="20260914164800 +0800">
+		<title lang="zh">百变布鲁可Ⅳ(20)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914164800 +0800" stop="20260914170100 +0800">
+		<title lang="zh">鸭丫俱乐部Ⅰ(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914170100 +0800" stop="20260914171600 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(17)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914171600 +0800" stop="20260914173100 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(18)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914173100 +0800" stop="20260914174500 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(19)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914174500 +0800" stop="20260914180100 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(20)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914180100 +0800" stop="20260914181300 +0800">
+		<title lang="zh">三只松鼠之松鼠小镇(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914181300 +0800" stop="20260914182500 +0800">
+		<title lang="zh">三只松鼠之松鼠小镇(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914182500 +0800" stop="20260914183700 +0800">
+		<title lang="zh">三只松鼠之松鼠小镇(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914183700 +0800" stop="20260914184900 +0800">
+		<title lang="zh">三只松鼠之松鼠小镇(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914184900 +0800" stop="20260914190100 +0800">
+		<title lang="zh">三只松鼠之松鼠小镇(5)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914190100 +0800" stop="20260914192400 +0800">
+		<title lang="zh">超变战陀-爆甲战陀(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914192400 +0800" stop="20260914194700 +0800">
+		<title lang="zh">超变战陀-爆甲战陀(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914194700 +0800" stop="20260914201100 +0800">
+		<title lang="zh">超变战陀-爆甲战陀(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914201100 +0800" stop="20260914201400 +0800">
+		<title lang="zh">拇指总动员Ⅰ(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914201400 +0800" stop="20260914201800 +0800">
+		<title lang="zh">拇指总动员Ⅰ(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914201800 +0800" stop="20260914202100 +0800">
+		<title lang="zh">拇指总动员Ⅰ(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914202100 +0800" stop="20260914202500 +0800">
+		<title lang="zh">拇指总动员Ⅰ(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914202500 +0800" stop="20260914202800 +0800">
+		<title lang="zh">拇指总动员Ⅰ(5)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914202800 +0800" stop="20260914203200 +0800">
+		<title lang="zh">拇指总动员Ⅰ(6)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914203200 +0800" stop="20260914204300 +0800">
+		<title lang="zh">百变布鲁可Ⅳ(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914204300 +0800" stop="20260914205500 +0800">
+		<title lang="zh">百变布鲁可Ⅳ(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914205500 +0800" stop="20260914210600 +0800">
+		<title lang="zh">百变布鲁可Ⅳ(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914210600 +0800" stop="20260914212100 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(9)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914212100 +0800" stop="20260914213600 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(10)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914213600 +0800" stop="20260914215100 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(11)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914215100 +0800" stop="20260914220600 +0800">
+		<title lang="zh">荒岛历险记之罗克和编程猫(12)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914220600 +0800" stop="20260914222100 +0800">
+		<title lang="zh">冒险小狗帮(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914222100 +0800" stop="20260914223600 +0800">
+		<title lang="zh">冒险小狗帮(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914223600 +0800" stop="20260914225100 +0800">
+		<title lang="zh">冒险小狗帮(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914225100 +0800" stop="20260914230600 +0800">
+		<title lang="zh">冒险小狗帮(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914230600 +0800" stop="20260914230800 +0800">
+		<title lang="zh">少儿动画精彩片段(28)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914230800 +0800" stop="20260914232100 +0800">
+		<title lang="zh">变形联盟之超变战神(21)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914232100 +0800" stop="20260914233400 +0800">
+		<title lang="zh">变形联盟之超变战神(22)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914233400 +0800" stop="20260914234700 +0800">
+		<title lang="zh">变形联盟之超变战神(23)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260914234700 +0800" stop="20260915000300 +0800">
+		<title lang="zh">变形联盟之超变战神(24)</title>
+	</programme>
 	<channel id="海南卫视">
 		<display-name lang="zh">海南卫视</display-name>
 	</channel>
@@ -10254,28 +10620,28 @@
 	<programme channel="海南卫视" start="20260912233000 +0800" stop="20260913000500 +0800">
 		<title lang="zh">乡村振兴电视夜校</title>
 	</programme>
-	<programme channel="海南卫视" start="20260913000500 +0800" stop="20260913003500 +0800">
+	<programme channel="海南卫视" start="20260913000700 +0800" stop="20260913003800 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260913003500 +0800" stop="20260913010000 +0800">
+	<programme channel="海南卫视" start="20260913003800 +0800" stop="20260913010300 +0800">
 		<title lang="zh">步步为营</title>
 	</programme>
-	<programme channel="海南卫视" start="20260913010000 +0800" stop="20260913023000 +0800">
+	<programme channel="海南卫视" start="20260913010300 +0800" stop="20260913023300 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260913023000 +0800" stop="20260913032000 +0800">
+	<programme channel="海南卫视" start="20260913023300 +0800" stop="20260913032300 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
-	<programme channel="海南卫视" start="20260913032000 +0800" stop="20260913035000 +0800">
+	<programme channel="海南卫视" start="20260913032300 +0800" stop="20260913035200 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260913035000 +0800" stop="20260913042000 +0800">
+	<programme channel="海南卫视" start="20260913035200 +0800" stop="20260913042000 +0800">
 		<title lang="zh">视界</title>
 	</programme>
-	<programme channel="海南卫视" start="20260913042000 +0800" stop="20260913045600 +0800">
+	<programme channel="海南卫视" start="20260913042000 +0800" stop="20260913045900 +0800">
 		<title lang="zh">动漫剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260913045600 +0800" stop="20260913063500 +0800">
+	<programme channel="海南卫视" start="20260913045900 +0800" stop="20260913063500 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20260913063500 +0800" stop="20260913070000 +0800">
@@ -10349,5 +10715,38 @@
 	</programme>
 	<programme channel="海南卫视" start="20260914073300 +0800" stop="20260914180800 +0800">
 		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260914073300 +0800" stop="20260914180800 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260914180800 +0800" stop="20260914182200 +0800">
+		<title lang="zh">特别节目</title>
+	</programme>
+	<programme channel="海南卫视" start="20260914182200 +0800" stop="20260914183000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="海南卫视" start="20260914183000 +0800" stop="20260914190000 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260914190000 +0800" stop="20260914193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260914193000 +0800" stop="20260914195500 +0800">
+		<title lang="zh">潮起海之南</title>
+	</programme>
+	<programme channel="海南卫视" start="20260914195500 +0800" stop="20260914202500 +0800">
+		<title lang="zh">视界</title>
+	</programme>
+	<programme channel="海南卫视" start="20260914202500 +0800" stop="20260914211300 +0800">
+		<title lang="zh">寰宇地理</title>
+	</programme>
+	<programme channel="海南卫视" start="20260914211300 +0800" stop="20260914222500 +0800">
+		<title lang="zh">金椰剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260914222500 +0800" stop="20260914232000 +0800">
+		<title lang="zh">星光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260914232000 +0800" stop="20260915001500 +0800">
+		<title lang="zh">卫视高尔夫</title>
 	</programme>
 </tv>
