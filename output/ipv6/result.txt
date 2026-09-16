@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-16 21:19:30,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8$订阅源
+2026-09-17 06:50:08,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8$订阅源
 
 📺央视频道,#genre#
 CCTV-8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8$订阅源
@@ -31,9 +31,6 @@ CETV-4,http://tv123.cc.cd/live.php?ch=2445&sid=2374bdd3b037fece7b63e0f90c608da1&
 
 🎬电影频道,#genre#
 靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837$订阅源
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$订阅源
-靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055$订阅源
-靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 天映经典,https://php.jdshipin.com:2096/smt.php?id=Celestial2$订阅源
 无线星河,http://r.jdshipin.com/sXuuD$订阅源
