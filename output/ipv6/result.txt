@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-10-14 07:45:35,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1$订阅源
+2026-10-14 21:29:54,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1$订阅源
 CCTV-10,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10$订阅源
 CCTV-11,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv11$订阅源
 CCTV-12,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12$订阅源
@@ -42,7 +41,6 @@ CETV-4,http://tv123.cc.cd/live.php?ch=2445&sid=2374bdd3b037fece7b63e0f90c608da1&
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
 猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
-经典动漫,http://luobo.bkpcp.top/yy/24180320$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
