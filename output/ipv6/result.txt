@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-01 07:17:43,https://php.jdshipin.com/TVOD/iptv.php$订阅源
+2026-11-01 22:56:36,https://php.jdshipin.com/TVOD/iptv.php$订阅源
 
 📺央视频道,#genre#
 CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php$订阅源
