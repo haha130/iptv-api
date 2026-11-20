@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-20 09:49:52,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+2026-11-21 00:54:29,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
@@ -8,8 +8,6 @@ CCTV-16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16$订阅源
 CCTV-17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17$订阅源
 
 💰央视付费频道,#genre#
-风云剧场,https://yshipin.pages.dev/play/cctvfyjc$订阅源
-怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc$订阅源
 
 📡卫视频道,#genre#
 甘肃卫视,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
